@@ -16,6 +16,10 @@ int main(){
         n = n >> 1;
         i++;
     }
-
     cout<<"Answer is "<< ans <<endl;
+    
+    
+    
+
+    
 }
