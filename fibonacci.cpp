@@ -8,7 +8,7 @@ int main(){
     cout<<a<<endl<<b<<endl;
     for(int i=1;i<=n;i++){
         int nextNumber=a+b;
-        cout<<nextNumber<<endl<<endl;
+        cout<<nextNumber<<endl;
         a=b;
         b=nextNumber;
 
