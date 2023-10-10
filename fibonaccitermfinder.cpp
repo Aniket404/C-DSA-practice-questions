@@ -19,7 +19,7 @@ int main()
     int n;
     cin >> n;
     
-    cout << "The " <<n<<"th term of the series is = "<< fibonacci(n) << endl<<endl;
+    cout << "The " <<n<<"th term of the series is = "<< fibonacci(n) << endl;
 
     return 0;
 }
