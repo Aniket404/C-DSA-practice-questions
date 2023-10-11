@@ -6,7 +6,7 @@ int main()
     /*int n;
     cin>>n;
     for(int i = 0; i <=n; i++) {
-      cout<<i<<endl;
+      cout<<i<<endl<<endl;
     }*/
     vector<int> v1(3,1);
     v1[1] = 2;
