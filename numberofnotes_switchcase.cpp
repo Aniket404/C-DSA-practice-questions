@@ -11,7 +11,7 @@ int main()
   {
       case 1: Rs100=amount/100;
               amount=amount%100;
-              cout<<"No of 100 Rupee ="<<Rs100<<endl;
+              cout<<"No of 100 Rupee ="<<Rs100<<endl<<endl;
               
          
       case 2: Rs50=amount/50;
