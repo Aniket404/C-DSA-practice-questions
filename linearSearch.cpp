@@ -14,7 +14,7 @@ return 0;
 }
 int main(){
     int arr[5]={2,4,6,8,10};
-    cout<<"Enter the value to search"<< endl<<endl;
+    cout<<"Enter the value to search"<< endl;
     int key;
     cin>>key;
 
