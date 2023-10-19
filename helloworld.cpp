@@ -19,6 +19,6 @@ int main()
     cout<<"Capacity = "<<v1.capacity()<<endl;
     cout<<v1[2]<<endl;
     cout<<"Size = "<<v1.size()<<endl;
-    cout<<"Capacity = "<<v1.capacity()<<endl;
+    cout<<"Capacity = "<<v1.capacity()<<endl<<endl;
 
 }
