@@ -23,7 +23,7 @@ int main(){
         cout<<"Key is present"<< endl;
     }
     else{
-        cout<<"Key is not present"<< endl;
+        cout<<"Key is not present"<< endl<<endl;
     }
   return 0;   
 }
